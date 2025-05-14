@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack web development & intern at Doğuş Teknoloji<br>🌱 I’m currently learning Vue, React, .Net(Architectures), MSSQL,GenAi<br>💬 Ask me about Full-stack development and basics such as OOP<br>⚡ Ready to code!
+🔭 I’m currently working on Full-stack web development & intern at Doğuş Teknoloji<br>🌱 I’m currently learning Vue, React, .Net(Architectures), MSSQL, GenAi, AzureDevOps, AWS<br>💬 Ask me about Full-stack development and basics such as OOP<br>⚡ Ready to code!
 
 
 ## 🌐 Socials:
